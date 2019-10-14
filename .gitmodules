@@ -1,3 +1,6 @@
 [submodule "dds"]
 	path = dds
 	url = https://github.com/dds-bridge/dds.git
+[submodule "Submod"]
+	url = https://github.com/jimmy6727/mydds.git
+	branch = Development
